@@ -1,0 +1,15 @@
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\bin\Debug\net5.0\LightLib.Data.deps.json
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\bin\Debug\net5.0\LightLib.Data.dll
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\bin\Debug\net5.0\ref\LightLib.Data.dll
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\bin\Debug\net5.0\LightLib.Data.pdb
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\bin\Debug\net5.0\LightLib.Models.dll
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\bin\Debug\net5.0\LightLib.Models.pdb
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.AssemblyInfo.cs
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.csproj.CopyComplete
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.dll
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\ref\LightLib.Data.dll
+C:\Users\abdul\Desktop\lightlib-lms-master\lightlib-lms-master\LightLib.Data\obj\Debug\net5.0\LightLib.Data.pdb
